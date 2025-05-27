@@ -5,6 +5,16 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org)
 
+## 📢 Code Release Status
+
+**📋 Current Status**: This repository currently contains the project documentation and basic framework structure.
+
+**🔄 Full Code Release**: The complete implementation, including training scripts, model weights, and evaluation tools, will be released upon paper acceptance.
+
+**📝 Paper Status**: Our paper is currently under review. We will update this repository with the full codebase once the review process is complete.
+
+**⭐ Stay Updated**: Please star this repository to receive notifications when the full code is released!
+
 ## 🔬 Overview
 
 MATCHA-CT is a novel diffusion model framework for generating high-resolution, anatomically accurate 3D CT volumes from textual descriptions. Our approach combines text and anatomical guidance to produce clinically relevant synthetic medical images with superior quality and consistency.
@@ -204,18 +214,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📚 Citation
-
-If you find this work useful in your research, please cite:
-
-```bibtex
-@article{hou2025matcha,
-  title={MATCHA-CT: Multi-Aspect Text-Conditioned Hierarchical Architecture for Anatomically-Precise 3D CT Synthesis},
-  author={Hou, Jiahe and Cheng, Guangliang and Moraros, John and Wang, Shuihua},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2025}
-}
-```
 
 ## 🙏 Acknowledgments
 
