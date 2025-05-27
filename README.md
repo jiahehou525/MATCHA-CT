@@ -231,9 +231,3 @@ If you find this work useful in your research, please cite:
 - [Medical Diffusion](https://github.com/example/medical-diffusion)
 
 ---
-
-<p align="center">
-  <img src="assets/sample_results.png" alt="Sample Results" width="800">
-</p>
-
-*Sample generated CT volumes showing various pathologies conditioned on text prompts*
