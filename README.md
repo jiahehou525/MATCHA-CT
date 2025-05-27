@@ -7,8 +7,6 @@
 
 ## 📢 Code Release Status
 
-**📋 Current Status**: This repository currently contains the project documentation and basic framework structure.
-
 **🔄 Full Code Release**: The complete implementation, including training scripts, model weights, and evaluation tools, will be released upon paper acceptance.
 
 **📝 Paper Status**: Our paper is currently under review. We will update this repository with the full codebase once the review process is complete.
